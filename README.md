@@ -68,18 +68,6 @@ Built a real-time Smile Detection System: a CNN trained on the GENKI-4K dataset,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lavanya&show_icons=true&theme=default&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya&layout=compact&theme=default&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
