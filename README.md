@@ -1,114 +1,96 @@
-# 👋 Hi, I'm Lavanya S
-
-**Java Developer | Full Stack Developer | B.Tech IT Student**
-
-## 🚀 About Me
-
-- 🎓 Pre-final year **B.Tech Information Technology** student at **V.S.B. Engineering College, Karur** (2023–2027) | **CGPA: 8.46**
-- 💻 Passionate about **Java Development**, **Full Stack Development**, and **Software Engineering**
-- 🌱 Currently improving my knowledge in:
-  - Java Backend & RESTful API Development
-  - Full Stack Web Development
-  - Data Structures & Algorithms
-  - Machine Learning Integration
-- 🎯 Looking for **Software Development** and **Full Stack Internship** opportunities
-
-## 👨‍💻 Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Machine Learning**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📚 Core Skills
-
-- ☕ Java Development
-- 🧩 Object-Oriented Programming (OOP)
-- 📂 Data Structures & Algorithms
-- 🌐 Web Technologies
-- 🔌 RESTful API Development
-- 🗄️ Relational Databases & SQL
-- 🔧 Git & GitHub
-- 🤖 Machine Learning Integration
-
-## 🚀 Projects
-
-### 🌱 Smart Crop Advisory System
-**Tech Stack:** Python • Flask • scikit-learn • Pandas • HTML • CSS • REST API
-
-- Full-stack crop advisory web app recommending optimal crops and fertilizers based on soil nutrients (N, P, K), pH, rainfall, temperature, and humidity.
-- ML pipeline using a **Random Forest Classifier** trained on agricultural data, with prediction confidence scores.
-- Integrated a real-time **Weather API** to fetch live environmental conditions by city.
-
-### 🏫 Resource Booking System
-**Tech Stack:** Node.js • Express.js • MySQL • JavaScript • HTML • CSS • REST API
-
-- Full-stack booking platform enabling students to browse, request, and manage bookings for shared institutional resources.
-- Dedicated **Admin Dashboard** for booking approvals and resource management.
-- Modular client-server architecture using **Express.js** and **MySQL** for reliable data management and performance.
-
-## 💼 Experience & Internships
-
-### 💻 Virtual Intern — Infosys Springboard (2025)
-- Built a real-time **Smile Detection System** using a CNN trained on the **GENKI-4K dataset**.
-- Used **OpenCV** and **Haar Cascade** for real-time face detection.
-- Designed and preprocessed image pipelines: resizing, grayscale conversion, and normalization.
-- Organized datasets into **training, validation, and testing** sets for model development.
-
-## 🏆 Certifications
-
-- 📜 **Programming in Java** — NPTEL
-- 📜 **Generative AI Fluency** — FutureSkills Prime
-- 📜 **MySQL** — HackerRank
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Lavanya S 👋</h1>
+<p align="center"><b>Java Developer · Full Stack Developer · B.Tech IT Student</b></p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_GITHUB_USERNAME&show_icons=true&theme=default" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_GITHUB_USERNAME&layout=compact&theme=default" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Java+%26+Spring+Boot;Full+Stack+Developer+in+progress;Open+to+Internship+opportunities;Code.+Learn.+Build.+Repeat.&font=Fira%20Code&center=true&width=440&height=40&color=2E9EF7&vCenter=true&size=20" alt="typing banner"/>
 </p>
 
+---
+
+### 🎯 About Me
+
+Pre-final year **B.Tech Information Technology** student at **V.S.B. Engineering College, Karur** (2023–2027) — CGPA **8.46**. I build full-stack Java and web applications and I'm currently looking for **Software Development / Full Stack Internship** opportunities.
+
+**Right now I'm sharpening:**
+`Java Backend & REST APIs` · `Full Stack Development` · `DSA` · `Machine Learning Integration`
+
+---
+
+### 🛠️ Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML / Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 Smart Crop Advisory System**
+`Python` `Flask` `scikit-learn` `Pandas`
+
+Full-stack advisory app recommending crops and fertilizers from soil N-P-K, pH, rainfall, temperature and humidity, using a Random Forest Classifier with confidence scoring. Pulls live weather by city via a Weather API.
+
+</td>
+<td width="50%" valign="top">
+
+**🏫 Resource Booking System**
+`Node.js` `Express.js` `MySQL`
+
+Full-stack platform for students to browse, request and manage bookings for shared institutional resources, with an admin dashboard for approvals, on a modular client-server architecture.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience
+
+**Virtual Intern — Infosys Springboard** · 2025
+Built a real-time Smile Detection System: a CNN trained on the GENKI-4K dataset, OpenCV + Haar Cascade for face detection, and a preprocessing pipeline (resize → grayscale → normalize) with train/val/test splits.
+
+---
+
+### 🏆 Certifications
+
+- Programming in Java — NPTEL
+- Generative AI Fluency — FutureSkills Prime
+- MySQL — HackerRank
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_GITHUB_USERNAME&theme=default" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lavanya&show_icons=true&theme=default&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya&layout=compact&theme=default&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya&theme=default&hide_border=true" />
 </p>
 
-## 💡 Coding Profiles
+---
 
-- 🏆 [HackerRank](https://www.hackerrank.com/REPLACE_WITH_HACKERRANK_USERNAME)
-- ⚡ [GitHub](https://github.com/REPLACE_WITH_GITHUB_USERNAME)
-
-## 📫 Connect With Me
-
-- 📧 Email: **sri831063@gmail.com**
-- 📱 Phone: **+91 9025501228**
-- 💼 LinkedIn: [REPLACE_WITH_LINKEDIN_SLUG](https://linkedin.com/in/REPLACE_WITH_LINKEDIN_SLUG)
-- 🌐 GitHub: [REPLACE_WITH_GITHUB_USERNAME](https://github.com/REPLACE_WITH_GITHUB_USERNAME)
-
-## 💬 Quote
-
-> *"Code. Learn. Build. Repeat."* 🚀
+### 📫 Let's Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_GITHUB_USERNAME&style=flat-square" />
+  <a href="mailto:sri831063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Lavanya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/REPLACE_WITH_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/REPLACE_WITH_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>"Code. Learn. Build. Repeat."</i> 🚀</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lavanya&style=flat-square&color=2E9EF7" />
 </p>
